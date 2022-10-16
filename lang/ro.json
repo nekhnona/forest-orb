@@ -2,7 +2,7 @@
   "translationComplete": "1",
   "version": {
     "2kki": {
-      "label": "Yume 2kki Version {VERSION}",
+      "label": "Yume 2kki Versiunea {VERSION}",
       "substitutes": {
         " Patch ": " Patch ",
         "?": "?"
@@ -11,35 +11,35 @@
   },
   "ui": {
     "account": {
-      "login": "Log In",
-      "logout": "Log Out"
+      "login": "Conectare",
+      "logout": "Deconectare"
     },
     "fontStyle": {
-      "label": "Font Style:",
+      "label": "Stil Font:",
       "values": {
-        "style1": "Style 1",
-        "style2": "Style 2",
-        "style3": "Style 3",
-        "style4": "Style 4",
-        "style5": "Style 5",
-        "style6": "Style 6",
-        "style7": "Style 7"
+        "style1": "Stil 1",
+        "style2": "Stil 2",
+        "style3": "Stil 3",
+        "style4": "Stil 4",
+        "style5": "Stil 5",
+        "style6": "Stil 6",
+        "style7": "Stil 7"
       }
     },
     "chatbox": {
-      "location": "Location:&nbsp;",
+      "location": "Locaţie:&nbsp;",
       "immersionMode": "Immersion Mode",
       "tab": {
         "chat": "Chat",
-        "players": "Players",
-        "parties": "Parties"
+        "players": "Jucători",
+        "parties": "Grupuri"
       },
       "chat": {
         "tab": {
-          "all": "All",
-          "map": "Map",
+          "all": "Toate",
+          "map": "Hartă",
           "global": "Global",
-          "party": "Party"
+          "party": "Grup"
         },
         "nickname": {
           "header": "You must set a nickname before you can chat.",
@@ -51,7 +51,7 @@
       },
       "players": {
         "tab": {
-          "map": "Map",
+          "map": "Hartă",
           "party": "Party"
         }
       }
@@ -514,19 +514,19 @@
     },
     "badgeGallery": {
       "label": "{PLAYER}'s Badge Gallery",
-      "loading": "Loading...",
+      "loading": "Se încarcă...",
       "bp": "{BP} BP",
-      "count": "{COUNT} Badges"
+      "count": "{COUNT} Insigne"
     },
     "rankings": {
       "categories": {
         "badgeCount": {
-          "label": "Badges",
-          "valueLabel": "# of Badges",
+          "label": "Insigne",
+          "valueLabel": "# de Insigne",
           "value": "{NUMBER}"
         },
         "bp": {
-          "label": "BP (Badge Points)",
+          "label": "BP (Puncte de Insignă)",
           "valueLabel": "BP",
           "value": "{NUMBER} BP"
         },
@@ -536,13 +536,13 @@
           "value": "{NUMBER} ExP"
         },
         "eventLocationCount": {
-          "label": "Expeditions",
-          "valueLabel": "# of Expeditions",
+          "label": "Expediţii",
+          "valueLabel": "# de Expediţii",
           "value": "{NUMBER}"
         },
         "freeEventLocationCount": {
-          "label": "Free Expeditions",
-          "valueLabel": "# of Expeditions",
+          "label": "Expediţii Gratis",
+          "valueLabel": "# de Expediţii",
           "value": "{NUMBER}"
         },
         "eventLocationCompletion": {
@@ -551,8 +551,8 @@
           "value": "{PERCENT}%"
         },
         "eventVmCount": {
-          "label": "Vending Machine Finder",
-          "valueLabel": "# of Vending Machines",
+          "label": "Căutător de Automate",
+          "valueLabel": "# de Automate",
           "value": "{NUMBER}"
         },
         "timeTrial": {
@@ -561,23 +561,23 @@
           "value": "{MINUTES}:{SECONDS}"
         },
         "minigame": {
-          "label": "Minigames",
-          "valueLabel": "Score",
+          "label": "Minijocuri",
+          "valueLabel": "Scor",
           "value": "{NUMBER}"
         }
       },
       "subCategories": {
-        "all": "All",
-        "2": "All Effects",
+        "all": "Toate",
+        "2": "Toate Efectele",
         "nasu": "NASU",
-        "rby": "Red Blue Yellow (Mini Game B)",
-        "rby_ex": "Red Blue Yellow (Mini Game B) - EX Version"
+        "rby": "Red Blue Yellow (Mini Joc B)",
+        "rby_ex": "Red Blue Yellow (Mini Joc B) - Versiunea EX"
       }
     },
     "2kki": {
       "explorerLink": {
-        "generic": "View in Yume 2kki Explorer",
-        "multi": "View {LOCATION} in Yume 2kki Explorer"
+        "generic": "Vizionează în Yume 2kki Explorer",
+        "multi": "Vizionează {LOCATION} în Yume 2kki Explorer"
       }
     }
   }
